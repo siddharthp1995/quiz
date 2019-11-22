@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Mcq{
+    border: 1px solid #000000;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.margin-button {
+   margin-left: 15px;
+}
+
+.no-pad {
+   padding: 0 !important;
+}
+
